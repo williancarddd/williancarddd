@@ -17,6 +17,7 @@
     <li>HTML
     <li>CSS3
     <li>SASS
+    <li>Solid principles
   </ul>
 </section>
 
