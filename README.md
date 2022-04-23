@@ -18,6 +18,7 @@
     <li>CSS3
     <li>SASS
     <li>Solid principles
+    <li>Devices embedded with AOSP(learning...)
   </ul>
 </section>
 
