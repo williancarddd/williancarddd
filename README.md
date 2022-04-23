@@ -7,7 +7,7 @@
     <li>TypeScript
     <li>Python
     <li>C
-    <li>Java (básico)
+    <li>Java (basic)
     <li>SQL
     <li>Nodejs
     <li>MySql
