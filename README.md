@@ -85,6 +85,8 @@
 <a href="https://www.linkedin.com/in/william-cardoso-9363a015a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@williancard123" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=https://lattes.cnpq.br/8165329615542562)](https://lattes.cnpq.br/8165329615542562)
+
  
 
   
