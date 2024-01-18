@@ -14,21 +14,6 @@
 &nbsp;
 
 
-### (English) 👋 Hi, I'm William Cardoso!
-
-🎓 **Computer Science Student** at the Federal University of Rondônia (UNIR).
-
-👨‍💻 **Computing Marathon Enthusiast:** Passionate about programming challenges and competitive spirit.
-
-🔬 **Research Scholar at FIOTEC/Fiocruz Rondônia:** Engaged in the "Strengthening Research and Surveillance Actions for Tropical Diseases in the Amazon Region" project. Contributing to scientific advancement in public health.
-
-🚀 **Entrepreneur:** Founder of the startup [**Ecotech Amazônia**](https://www.ecotechamazonia.com.br/), an initiative focused on developing strategic and sustainable technology in the Amazon region.
-
-🌱 **Academic Engagement:** Actively participating in extension and research projects, constantly seeking to expand knowledge and apply technology in various fields such as library science, medicine, biotechnology, and intelligent systems.
-
- 
- &nbsp;
- &nbsp;
 
 
 
@@ -79,8 +64,6 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/williancarddd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href = "mailto:contato.williancard123@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/william-cardoso-9363a015a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@williancard123" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
@@ -90,6 +73,20 @@
 
  
 
-  
+  ### (English) 👋 Hi, I'm William Cardoso!
+
+🎓 **Computer Science Student** at the Federal University of Rondônia (UNIR).
+
+👨‍💻 **Computing Marathon Enthusiast:** Passionate about programming challenges and competitive spirit.
+
+🔬 **Research Scholar at FIOTEC/Fiocruz Rondônia:** Engaged in the "Strengthening Research and Surveillance Actions for Tropical Diseases in the Amazon Region" project. Contributing to scientific advancement in public health.
+
+🚀 **Entrepreneur:** Founder of the startup [**Ecotech Amazônia**](https://www.ecotechamazonia.com.br/), an initiative focused on developing strategic and sustainable technology in the Amazon region.
+
+🌱 **Academic Engagement:** Actively participating in extension and research projects, constantly seeking to expand knowledge and apply technology in various fields such as library science, medicine, biotechnology, and intelligent systems.
+
+ 
+ &nbsp;
+ &nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
