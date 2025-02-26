@@ -1,6 +1,6 @@
 ### 👋 Olá, sou William Cardoso!
 
-🎓 **Estudante de Ciência da Computação** na Universidade Federal de Rondônia (UNIR).
+🎓 **Formação: Bacharel em Ciência da Computação (UNIR) | Especialização em IA Aplicada (UFPR – em andamento para 2025)
 
 👨‍💻 **Entusiasta de Maratonas de Computação:** Apaixonado por desafios de programação e pelo espirito competitivo.
 
