@@ -1,6 +1,6 @@
 ### 👋 Olá, sou William Cardoso!
 
-🎓 **Formação: Bacharel em Ciência da Computação (UNIR) | Especialização em IA Aplicada (UFPR – em andamento para 2025)
+🎓 **Formação: Bacharel em Ciência da Computação (UNIR)** | Especialização em IA Aplicada (UFPR – em andamento para 2025)
 
 👨‍💻 **Entusiasta de Maratonas de Computação:** Apaixonado por desafios de programação e pelo espirito competitivo.
 
