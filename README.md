@@ -1,6 +1,7 @@
 ### 👋 Olá, sou William Cardoso!
 
 🎓 **Bacharel em Ciência da Computação (UNIR)** | **Especialização em IA Aplicada (UFPR – em andamento)**  
+🎓 **Master Degree Student - Institute of Mathematics and Computer Sciences - Public Sao Paulo University**
 👨‍💻 **Backend & AI Developer | Pesquisador Científico | Tech for Sustainability**  
 🚀 **Co-fundador da [Ecotech Amazônia](https://www.ecotechamazonia.com.br)**
 
